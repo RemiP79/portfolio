@@ -15,7 +15,7 @@ function HomeBanner() {
                 </div>
                 <div className="infoPerso"> 
                         <p className="linkToCv">
-                            <Link to= "/files/CV20230427_definitif.pdf" target="_blank" download className="cv">Mon CV</Link>    
+                            <Link to= "/portfolio/files/CV20230427_definitif.pdf" target="_blank" download className="cv">Mon CV</Link>    
                         </p>
                         <div className="divLinkToMail">
                             <a href ="mailto:perez.remi@gmail.com">@ : perez.remi@gmail.com</a>

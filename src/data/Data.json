@@ -87,7 +87,7 @@
 			"/portfolio/img/bluelAccueil.webp",
 			"/portfolio/img/bluelModale.webp",
 			"/portfolio/img/bluelmodale2.webp",
-			"/portfolioimg/bluelCode.webp"
+			"/portfolio/img/bluelCode.webp"
 		],
 		"description": [
 			"Récupérer les données utilisateurs dans le JavaScript via des formulaires",
@@ -226,7 +226,7 @@
 	{
 		"id": "projetMonVieuxGrimmoire",
 		"title": "Mon vieux grimmoire : Développement du back-end d'un site de notation de livres",
-		"cover": "/img/vieuxGrimmoireLogo.webp",
+		"cover": "/portfolio/img/vieuxGrimmoireLogo.webp",
 		"pictures": [
 			"/portfolio/img/vieuxGrimmoirePageAccueil.webp",
 			"/portfolio/img/vieuxGrimmoireCreateBook.webp",

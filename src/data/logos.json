@@ -3,7 +3,7 @@
     "id" : "1",
     "alt" : "Image CSS",
     "picture" :
-        "/img/logos/logoCss.png"
+        "/portfolio/img/logos/logoCss.png"
     
 },
 
@@ -11,7 +11,7 @@
     "id" : "2",
     "alt" : "Image gitHub",
     "picture" :       
-        "/img/logos/logoGh.png"
+        "/portfolio/img/logos/logoGh.png"
     
 },
 
@@ -19,7 +19,7 @@
     "id" : "3",
     "alt" : "Image Html",
     "picture" :    
-        "/img/logos/logoHtml.png"
+        "/portfolio/img/logos/logoHtml.png"
     
 },
 
@@ -27,7 +27,7 @@
     "id" : "4",
     "alt" : "Image JS",
     "picture" :        
-        "/img/logos/logoJavascript.png"
+        "/portfolio/img/logos/logoJavascript.png"
     
 },
 
@@ -35,7 +35,7 @@
     "id" : "5",
     "alt" : "Image mongo",
     "picture" :
-        "/img/logos/logoMongo.png"
+        "/portfolio/img/logos/logoMongo.png"
     
 },
 
@@ -43,7 +43,7 @@
     "id" : "6",
     "alt" : "Image node",
     "picture" :
-        "/img/logos/logonode.png"
+        "/portfolio/img/logos/logonode.png"
     
 },
 
@@ -51,7 +51,7 @@
     "id" : "7",
     "alt" : "Image OVH",
     "picture" :
-        "/img/logos/logoOVH.png"
+        "/portfolio/img/logos/logoOVH.png"
     
 },
 
@@ -59,7 +59,7 @@
     "id" : "8",
     "alt" : "Image React",
     "picture" :
-        "/img/logos/logoReact.png"
+        "/portfolio/img/logos/logoReact.png"
     
 },
 
@@ -67,7 +67,7 @@
     "id" : "9",
     "alt" : "Image WordPress",
     "picture" :
-        "/img/logos/logoWp.png"
+        "/portfolio/img/logos/logoWp.png"
     
 }
 ]
