@@ -20,7 +20,7 @@
 		"host": {
 			"link" : "https://derej.fr/",
 			"name": "Voir site derej.fr",
-			"picture": "/portfolio/img/Derejlogo.png"
+			"picture": "/portfolio/img/DerejLogo.png"
 		},
 		"rating": "5",
 		"location": " Mon premier projet de développeur s'est fait pendant le confinement. Ma femme voulait créer un site marchand pour sa marque DEREJ couture. J'ai donc décidé d'utiliser les semaines de confinement pour m'auto-former et créer un site à l'image de la marque. Je n'avais aucune compétence en création de site. J'ai utilisé Wordpress et installé le site chez un hébergeur. Je gère totalement l'entretien du site, la création et l'insertion de tous les éléments le composant.",

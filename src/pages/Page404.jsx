@@ -3,7 +3,8 @@ import { Link,Navigate } from 'react-router-dom';
 import "../components/styles/404.css"
 import Img404 from "../assets/img/img404.png"
 
-function Page404() {   
+function Page404() {
+    <Navigate to="/"/>
     return (
         
         <div className="divPage404">
