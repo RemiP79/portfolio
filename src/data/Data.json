@@ -1,0 +1,269 @@
+[
+	{
+		"id": "projetDerej",
+		"title": "DEREJ : création et maintenance du site Derej.fr avec utilisation du CMS Wordpress.",
+		"cover": "./img/DerejVignette.webp",
+		"pictures": [
+			"/img/DerejPageAccueil.webp",
+			"/img/DerejLeBodine.webp",
+			"/img/DerejlogosWordpress.webp",
+			"/img/DerejLogos.webp",
+			"/img/DerejSiteVenteEnLigne.webp"
+		],
+		"description": [			
+			"Mise en place d'un environnement avec Worpdpress",
+			"Créer un site marchand avec woocommerce",
+			"Sécurisation avec le plugin Cerber",
+			"SEO avec Yoast",
+			"Utilisation de Google analytics"		
+		],
+		"host": {
+			"link" : "https://derej.fr/",
+			"name": "Voir site derej.fr",
+			"picture": "/img/Derejlogo.png"
+		},
+		"rating": "5",
+		"location": " Mon premier projet de développeur s'est fait pendant le confinement. Ma femme voulait créer un site marchand pour sa marque DEREJ couture. J'ai donc décidé d'utiliser les semaines de confinement pour m'auto-former et créer un site à l'image de la marque. Je n'avais aucune compétence en création de site. J'ai utilisé Wordpress et installé le site chez un hébergeur. Je gère totalement l'entretien du site, la création et l'insertion de tous les éléments le composant.",
+		"equipments": [
+			"Je suis créatrice couture, je suis exigente et souhaitant un site à mon image, coloré,rigoureux mais original.",
+			"M. Perez a su être à l'écoute de mes besoins.",
+			"Fait preuve de patience et d'adaptation.",
+			"A l'esprit vif et a rapidement compris mes attentes."
+			
+		],
+		"tags": [
+			"Wordpress",
+			"Yoast SEO",
+			"GIMP",
+			"Inskape",
+			"OVH"
+		]
+	},
+	{
+		"id": "projetBooki",
+		"title": "BOOKI : création d'une page d'accueil d'une agence de voyage avec HTML et CSS",
+		"cover": "/img/bookiLogo.webp",
+		"pictures": [
+			"/img/bookiHeader.webp",
+			"/img/bookiHebergements.webp",
+			"/img/bookiActivites.webp",
+			"/img/bookiCode.webp"			
+		],
+		"description": [
+			"Installer un environnement de développement front-end",
+			"Intégrer du contenu conformément à une maquette avec HTML et CSS",
+			"Implémenter une interface responsive avec HTML et CSS",
+			"Versionner son projet avec Git et Github"
+		],
+		"host": {
+			"link":"https://remip79.github.io/projet2/",
+			"name": "Lien vers Booki",
+			"picture": "/img/bookiLogoLink.png"
+		},
+		"rating": "4",
+		"location": "La mission était la mise en place d'un environnement front-end en utilisant les langages HTML et CSS. L'objectif était la reproduction à l'identique, en version desktop, une maquette Figma. La demande la mise en place d'un responsive design pour tablette et mobile. Pour cela, il a fallut découper la maquette pour organiser l'agencement des éléments, coder les différentes parties du fichier HTML (header, body, footer...), intégrer un formulaire, une partie filtres, intégrer des images...",
+		"equipments": [		
+			"Le projet réponds au cahier de charge",
+			"Projet bien structuré(création de dossier css/images)",
+			"Bonne présentation",
+			"Bonne réponse aux questions posées",
+			"Bonne compréhension du code implémenté",
+			"Réactivité par rapport aux changements demandés",
+			"Projet validé"
+		],
+		"tags": [
+			"HTML",
+			"CSS",
+			"Figma",
+			"gitHub",
+			"VS code"
+		]
+	},
+	{
+		"id": "projetSophieBluel",
+		"title": "Sophie Bluel, photographe : Créer une page web dynamique avec Javascript",
+		"cover": "/img/bluelLogo.webp",
+		"pictures": [
+			"/img/bluelAccueil.webp",
+			"/img/bluelModale.webp",
+			"/img/bluelmodale2.webp",
+			"/img/bluelCode.webp"
+		],
+		"description": [
+			"Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+			"Manipuler les éléments du DOM avec JavaScript",
+			"Gérer les événements utilisateurs avec JavaScript"
+		],
+		"host": {
+			"link":"",
+			"name": "",
+			"picture": ""
+		},
+		"rating": "3",
+		"location": "Projet Javascript en front-end dans lequel il fallait réaliser plusieurs fonctionnalités et travailler avec des données dynamiques provenant d’une API. Ce projet nous a amené aux notion de kanban (respect des tâches de chacun), ainsi qu'une approche de swagger (L’interface utilisateur, qui permet de représenter très facilement la documentation). Intégration de design, gestion d'authentification, gestion du CRUD avec fetch",
+		"equipments": [
+			"De manière générale, Rémi a assez bien validé les compétences attendues dans ce projet.",
+			"C'est une personne ayant du potentiel. Nous le félicitons."
+		],
+		"tags": [
+			"javascript",
+			"fetch",
+			"Swagger",
+			"Kaban"			
+		]
+	},
+	{
+		"id": "projetQwanta",
+		"title": "QWANTA : Plannification du développement du site d'un client",
+		"cover": "/img/menuMakerLogo.webp",
+		"pictures": [
+			"/img/menuMakerKaban.webp",
+			"/img/menuMakerKaban2.webp",
+			"/img/menuMakerSpeTech.webp",
+			"/img/menuMakerVeilleTech.webp"
+		],
+		"description": [
+			"Suivre le déroulement du projet grâce à un outil de gestion de projet",
+			"Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels",
+			"Découper une fonctionnalités en tâches pour préparer le développement",
+			"Présenter la solution technique",
+			"Mettre en place une méthode de veille technologique",
+			"Versionner son projet avec Git et Github",
+			"Installer un environnement de développement front-end"
+		],
+		"host": {
+			"link":"",
+			"name": "",
+			"picture": ""
+		},
+		"rating": "3",
+		"location": "En tant que développeur front end, j'ai eu la mission de préparer et de plannifier le développement d'un site. Pour cela j'ai dû mettre en place une méthode de travail AGILE. Je me suis basé sur des spécifications fonctionnelles ainsi que sur un user story pour établir les spcification techniques front-end et back-end du site. Pour cela j'ai dû mettre en place un outil de veille mais aussi créer un kanban pour que répartir les différentes tâches entre dans le temps et entre profesionnels. Ce projet a été très bénéfique pour moi car il m'a permis de me documenter sur les outils, tâches et missions que tout développeur doit connaitre. ",
+		
+		"equipments": [
+			"L'étudiant a effectué une présentation structurée en respectant le temps imparti. J'ai été convaincu de l'implication de l'étudiant dans la mise en place de la documentation et l'implémentation du projet."
+		],
+		"tags": [
+			"Wakelet",
+			"Trello",
+			"Power point"
+
+		]
+	},
+	{
+		"id": "projetNinaCarducci",
+		"title": "Nina CARDUCCI : Debugger et optimiser un site",
+		"cover": "/img/ninaLogo.webp",
+		"pictures": [
+			"/img/ninaAccueilSite.webp",
+			"/img/ninaBilanOptimisation.webp",
+			"/img/ninaOptimisationsEffectuees.webp",
+			"/img/ninaCorrectionCode.webp",
+			"/img/ninaCodeMetaDescr.webp"],
+		"description": [
+			"Débugger une application web à l'aide de chrome devtools",
+			"Optimiser les performances d’un site web",
+			"Optimisation de fichiers CSS et JS (tri des informations bloquantes)",
+			"Optimisation du poids et taille d'images",
+			"Optimisation SEO",
+			"Optimisation accessibilité"
+
+		],
+		"host": {
+			"link":"https://remip79.github.io/projet5/",
+			"name": "Lien vers Nina Carducci",
+			"picture": "/img/ninaLogoLink.png"
+		},
+		"rating": "5",
+		"location": "Projet basé sur l'optimisation SEO d'un site. J'ai avant tout débuggé quelques fonctionnalités du site et ensuite, listé les différentes optimisations possibles. L'audit réalisé par lighthouse m'a été d'une grande aide car il m'a permis de lister et ordonner les différentes optimisations à réaliser. J'ai donc travillé sur l'optimisation d'images, de fichiers CSS et JS. J'ai ensuite optimisé le SEO avec Rich Snippet Google et les micro données de schéma.org. Enfin, j'ai optimisé l'accessibilité du site grâce au plug-in Wave.",
+		"equipments": [
+			"Rapport complet et structuré avec des recommandations bien choisies et cohérentes.",
+			"Le projet répond aux contraintes techniques fixes et est fonctionnel.",
+			"Remi a su expliquer et défendre ses choix techniques.",
+			"Les scores sont très bons en SEO, accessibilité et performances.",
+			"Rémi a su mettre en perspective son travail et à expliquer le fonctionnement de manière simple et compréhensible pour la cliente.",
+			"Remi a su répondre à mes questions concernant notamment : le Google Rich Content, l’intérêt d’avoir une bonne structure sémantique, l’impact d’un bon SEO, performance et accessibilité dans le référencement du site dans les moteurs de recherche.",
+			"Le projet est donc validé : félicitations."			
+		],
+		"tags": [
+			"Chrome devtools",
+			"Lighthouse",
+			"Résultats enrichis et référencement local (SEO)",
+			"Plugin wave",
+			"Rich snippet",
+			"Schéma.org"			
+		]
+	},
+	{
+		"id": "projetKasa",
+		"title": "KASA : Création d'une application web avec REACT",
+		"cover": "/img/kasaLogo.webp",
+		"pictures": [
+			"/img/kasaDescriptionPage.webp",
+			"/img/kasaAboutPage.webp",
+			"/img/kasaCode.webp"
+		],
+		"description": [
+			"Configurer la navigation entre les pages de l'application avec React Router.",
+			"Initialiser une application avec Create React App.",
+			"Développer des éléments de l'interface d'un site web grâce à des composants React."
+		],
+
+		"host": {
+			"link":"https://remip79.github.io/kasa-github-page/",
+			"name": "Lien vers Kasa",
+			"picture": "/img/kasaLogoLink.png"
+		},
+		"rating": "5",
+		"location": "Dans le cadre d'une refonte totale du site, j'ai été missionné pour réaliser le front-end avec la technologie REACT. J'ai dû me former à ce langage. Puis j'ai mis en place le routeur, et ses dépendances, nécessaire au fonctionnement du site. Puis j'ai crée et intégré les différents composants du code. J'ai par exemple crée unn collapse et un caroussel. J'ai rendu fonctionnel, une redirection vers un page d'erreur",
+		"equipments": [
+			"L'étudiant a fait preuve de bonne maitrise de son travail et des notions contenu ou abordée dans son projet (concepts liés à React). La présentation a été faite sous un respect du temps et reflecte bien la maitrise  des éléments qui sont expliqués. nous sommes favorable à ce travail."
+		],
+		"tags": [
+			"React app",
+			"React router"			
+		]
+	},
+	{
+		"id": "projetMonVieuxGrimmoire",
+		"title": "Mon vieux grimmoire : Développement du back-end d'un site de notation de livres",
+		"cover": "/img/vieuxGrimmoireLogo.webp",
+		"pictures": [
+			"/img/vieuxGrimmoirePageAccueil.webp",
+			"/img/vieuxGrimmoireCreateBook.webp",
+			"/img/vieuxGrimmoiremodifyBook.webp",
+			"/img/vieuxGrimmoirecode1.webp",
+			"/img/vieuxGrimmoirecode2.webp",
+			"/img/vieuxGrimmoirecode3.webp"
+		],
+		"description":[
+			"Implémenter un modèle logique de données conformément à la réglementation",
+			"Stocker des données de manière sécurisée",
+			"Mettre en œuvre des opérations CRUD de manière sécurisée",
+			"Répondre aux contraintes du green code dans la gestion des images"
+		],
+		"host": {
+			"link":"",
+			"name": "",
+			"picture": ""
+		},
+		"rating": "3",
+		"location": "Dans ce projet, J'ai été interpelé pour mettre en place le backend d'un site. Pour cela j'ai mis en place un serveur Node fonctionnel, avec express.js, et la base de donnée mongoDB. J'ai géré la sécurité du site côté backend, avec l'authentification d'utilisateur, le cryptage de mot de passe, contrer le piratage par injection, la surcharge de la base de donnée en limitant le 'poids' des fichiers téléchargés par les utilisateurs. La mise en place du CRUD sur les routes avec les méthodes GET/PUT/POST et DELETE.",
+		"equipments": [
+			"Livrables au bon format avec du contenu très bien soigné.",
+			"Bonne organisation dans la présentation et explications détaillées.",
+			"Bonne compréhension du sujet et respect du cahier de charge.",
+			"On sent la maîtrise du sujet dans l'ensemble. JavaScript et Node maîtrisés. Le code est clair et bien indenté.",
+			"Utilisation pleine des bonnes pratiques nodejs / express.",
+			"Félicitation continuez comme ça sur les prochains projets  !"
+		],
+		"tags": [
+			"Node",
+			"Express.js",
+			"MongoDB",
+			"Multer/sharp/express-validator",
+			"Mongo sanitize",
+			"Mongo unique validator"			
+		]
+	}
+	
+]

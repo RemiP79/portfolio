@@ -1,0 +1,38 @@
+.AccordeonItem{
+    background-color: rgb(29, 89, 123);
+    margin-bottom: 10px;
+    margin-top : 20px;
+    border-radius : 10px;
+    cursor: pointer;
+}
+
+.AccordeonTitle{
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    color : white;
+    font-family : arial;
+    font-size : 1.1em;
+    font-weight :inherit;
+    padding : 0 10px;
+    height : 35px;    
+}
+
+.iconeAccordeon{
+    font-size : 1.5em;
+}
+
+.accordeonContent {
+    overflow: hidden;
+    max-height : 0;
+    background-color: rgb(246,246,246);
+    transition : all 0.5s cubic-bezier(0,1,0,1);
+}
+
+.accordeonContent.show {    
+    max-height : 500px;
+    transition : all  cubic-bezier(1,0,1,0);
+    color : rgb(109, 109, 109);
+    padding : 20px 10px 10px;
+    font-size : 85%;
+}

@@ -1,0 +1,121 @@
+.banniereHome{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin : 0 6.5%; 
+    /* height : auto; */
+    margin-bottom : 50px;
+    border-radius : 50px 10px 30px 25px;
+    background-color: grey;
+}
+.infopersoH1{     
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width : 70%;
+}
+
+h1{
+    margin-bottom : 0;
+    font-size: 2rem;
+}
+
+.myName{
+font-family: Arial, Helvetica, sans-serif;
+font-size:1.5rem;
+}
+
+ .banniereH1{
+    margin : auto 0;
+font-family : "arial";
+}
+
+.divLinkToMail{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width : 100%;   
+}
+.divLinkToMail a{
+    color : inherit
+}
+
+
+
+
+/* .homeBanner{
+    height : 170px;
+    margin-bottom : 50px;
+       
+    margin : 0 6.5%; 
+      
+}
+
+.homeBanner img{    
+    height : 100%;
+    width : 100%;
+    object-fit: cover;
+    border-radius : 40px;
+    filter : brightness(70%);
+}
+
+.homeBanner p{
+    
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);   
+    font-family : arial;
+    color : white;
+    font-size : 2rem;
+    margin:0;    
+} */
+
+@media all and (max-width: 600px) {
+    .banniereHome{
+        flex-direction: column;
+    }
+    
+    .banniereHome img{
+        width : 40%;
+        height:auto; 
+        margin : 0 auto;       
+    }
+    /* .infopersoH1{   
+        width : 90%;
+    } */
+    .titleHomeBanner{
+        margin : 10px auto 0;
+    }
+    .banniereH1{
+        margin-bottom: 0;
+        margin : 10px auto;
+    }
+    .myName{
+        margin: 10 px auto;
+    }
+    
+    
+
+    
+    /* .homeBanner{           
+        margin : 0 4%;
+        height : 100px;
+    }
+    
+    .homeBanner img{
+        height : 100px;
+        width : 100%;
+        object-fit: cover;
+        border-radius : 10px;
+        filter : brightness(70%);
+    }
+
+    .homeBanner p{
+        top: 50%;
+        left : 30%;
+        width : 35%;
+        height: auto;
+        font-size : 4vw;
+    }     */
+}

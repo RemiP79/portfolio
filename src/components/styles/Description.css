@@ -1,0 +1,84 @@
+.blocTitleHost{
+    display : flex;
+    flex-direction: column;
+    justify-content : space-between;
+    margin : 20px 6.5%;
+    align-items: center;
+}
+
+.blocTitle{
+    margin : 0;
+    padding :0;
+    width : 82%;   
+}
+
+.title{
+    margin:10px 0 0 0;
+}
+
+
+.tag{
+    margin : 0 10px 10px 0;
+    padding:5px 35px;
+    background-color: rgba(29, 89, 123, 0.7);
+    border-radius: 10px;
+    font-size : 0.9em;
+    color : white;      
+    }
+
+.blocHost{
+    margin : 0;
+    width : 18%;   
+}
+
+.hostName{
+    width:100%;    
+}
+
+.divAccordeon{
+    display:flex;
+    justify-content: space-between;    
+    flex-basis : auto;
+    margin:0 6.5%;     
+}
+
+.DescriptionAccordeonDescription, .EquipementAccordeonDescription {
+    width : 45%;
+}
+
+.liAccordeon{    
+    list-style-type:none
+}
+
+
+@media all and (max-width: 600px){
+    .blocTitleHost{
+        display : flex;
+        flex-direction: column;        
+    }
+
+    .blocHost{
+        display:flex;
+        flex-direction: row-reverse; 
+        justify-content: space-between;
+        width : 100%;  
+    }
+
+    .divBlocRating {
+        text-align: left;
+        width : 40%;
+    }
+
+    .divAccordeon{
+        display:flex;
+        flex-direction: column;        
+        flex-basis : auto;
+        margin:0 6.5%; 
+    }
+
+    .DescriptionAccordeonDescription, .EquipementAccordeonDescription {
+        width : 100%;
+    }
+}
+
+   

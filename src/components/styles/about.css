@@ -1,0 +1,43 @@
+.divPhoto{
+    display : flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    width:90%;
+    margin:0 6.5%;
+}
+.imgVert{
+height:250px;
+}
+
+.PAbout,.HAbout {
+    font-family: arial,'Courier New', Courier, monospace;
+    /* width :90%; */
+    
+}
+
+.HAbout{
+    margin :20px 6.5%;
+    text-align: center;
+    font-size : 3rem;
+}
+.PAbout{
+    margin :20px 6.5%;
+font-size : 2rem;
+}
+
+
+@media all and (max-width: 600px){
+    .imgResp{
+        display:none;
+    }
+
+    .divPhoto{       
+        justify-content: center;        
+    }
+    .imgVert{
+        padding : 10px 0;
+        height:250px;
+        }
+    
+}

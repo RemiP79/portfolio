@@ -1,0 +1,14 @@
+/* .divBlocRating{
+   margin-top : 10px;
+   text-align:right;
+}
+.Etoile{ 
+    height : 1.6em;   
+    margin: 0 1%;
+}
+
+@media all and (max-width: 600px){
+    .divRating{
+         display : flex;
+    }
+} */

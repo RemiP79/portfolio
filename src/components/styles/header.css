@@ -1,0 +1,67 @@
+#header {
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    margin : 20px 6.5% 35px;
+}
+
+#logoKasaRouge { 
+    margin : auto 0;   
+    width : 5%;
+   
+}
+
+.nav-active{
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.nav-link{
+    color : rgb(29, 89, 123);
+    width : 50%;
+    margin-left :10%;
+    cursor : "pointer";
+    font-size :130%;
+    font-family : "arial";
+    border :none;
+}
+
+.navbar{    
+    width : 50%;
+    text-align: right;
+}
+
+#navUl{
+    list-style-type : none;    
+    display : flex;
+    justify-content: right;
+    margin : 0;
+    padding:0; 
+    width : 100%;   
+}
+
+
+@media all and (max-width: 600px) {
+    #header {
+        margin : 20px 35px;
+    }
+    .navbar{
+        width : 60%;
+        display:flex;
+    }
+    
+    #logoKasaRouge {    
+    width : 25%;
+    min-width:auto;   
+    }
+
+    .nav-link{    
+    width : 50%;    
+    cursor : "pointer";
+    font-size :100%;
+    font-family : "arial";
+    }
+}
+
+
+
