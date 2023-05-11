@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4ed0f6b1.css",
-    "main.js": "/portfolio/static/js/main.ab6cc094.js",
-    "static/media/aProposbmx.webp": "/portfolio/static/media/aProposbmx.8552878bf52c62ef9d77.webp",
-    "static/media/aProposthailande2.webp": "/portfolio/static/media/aProposthailande2.c03d50b76cfe9d2955e6.webp",
-    "static/media/aProposhamac.webp": "/portfolio/static/media/aProposhamac.cb4f898f93c6c7375854.webp",
-    "static/media/aProposcote.webp": "/portfolio/static/media/aProposcote.6655760399cf38174b70.webp",
-    "static/media/aProposmaillorc.webp": "/portfolio/static/media/aProposmaillorc.b12515c2b0386b2a7a51.webp",
-    "static/media/aProposchant.webp": "/portfolio/static/media/aProposchant.1de066e120ad53f98cee.webp",
-    "static/media/aProposthailande.webp": "/portfolio/static/media/aProposthailande.1b751932f6bfd9d0463a.webp",
-    "static/media/aProposeurodisne.webp": "/portfolio/static/media/aProposeurodisne.6d47e7861a080f52b841.webp",
-    "static/media/aProposclavier.webp": "/portfolio/static/media/aProposclavier.2c03fc59f6695c1e7fbc.webp",
-    "static/media/aProposbatterie.webp": "/portfolio/static/media/aProposbatterie.b2aaac65c62079b071bf.webp",
-    "static/media/aProposescalade.webp": "/portfolio/static/media/aProposescalade.45af22b265107b0fcedb.webp",
-    "static/media/aPropostennis.webp": "/portfolio/static/media/aPropostennis.6b10a6a818bce8c1a211.webp",
-    "static/media/aProposguitare.webp": "/portfolio/static/media/aProposguitare.788bd6c4c2085e6720bd.webp",
-    "static/media/LogoHeader.png": "/portfolio/static/media/LogoHeader.303d0754e8b75f949ac5.png",
-    "static/media/aProposstatuesOr.webp": "/portfolio/static/media/aProposstatuesOr.8475a85f31ed6c6f820f.webp",
-    "static/media/aboutBannerPerso.webp": "/portfolio/static/media/aboutBannerPerso.b2058a6670afd4c5573a.webp",
-    "static/media/portraitRPerez.png": "/portfolio/static/media/portraitRPerez.85987606bdb608e5da0a.png",
-    "index.html": "/portfolio/index.html",
-    "main.4ed0f6b1.css.map": "/portfolio/static/css/main.4ed0f6b1.css.map",
-    "main.ab6cc094.js.map": "/portfolio/static/js/main.ab6cc094.js.map"
+    "main.css": "/portfolio/home/static/css/main.4ed0f6b1.css",
+    "main.js": "/portfolio/home/static/js/main.9ab750d9.js",
+    "static/media/aProposbmx.webp": "/portfolio/home/static/media/aProposbmx.8552878bf52c62ef9d77.webp",
+    "static/media/aProposthailande2.webp": "/portfolio/home/static/media/aProposthailande2.c03d50b76cfe9d2955e6.webp",
+    "static/media/aProposhamac.webp": "/portfolio/home/static/media/aProposhamac.cb4f898f93c6c7375854.webp",
+    "static/media/aProposcote.webp": "/portfolio/home/static/media/aProposcote.6655760399cf38174b70.webp",
+    "static/media/aProposmaillorc.webp": "/portfolio/home/static/media/aProposmaillorc.b12515c2b0386b2a7a51.webp",
+    "static/media/aProposchant.webp": "/portfolio/home/static/media/aProposchant.1de066e120ad53f98cee.webp",
+    "static/media/aProposthailande.webp": "/portfolio/home/static/media/aProposthailande.1b751932f6bfd9d0463a.webp",
+    "static/media/aProposeurodisne.webp": "/portfolio/home/static/media/aProposeurodisne.6d47e7861a080f52b841.webp",
+    "static/media/aProposclavier.webp": "/portfolio/home/static/media/aProposclavier.2c03fc59f6695c1e7fbc.webp",
+    "static/media/aProposbatterie.webp": "/portfolio/home/static/media/aProposbatterie.b2aaac65c62079b071bf.webp",
+    "static/media/aProposescalade.webp": "/portfolio/home/static/media/aProposescalade.45af22b265107b0fcedb.webp",
+    "static/media/aPropostennis.webp": "/portfolio/home/static/media/aPropostennis.6b10a6a818bce8c1a211.webp",
+    "static/media/aProposguitare.webp": "/portfolio/home/static/media/aProposguitare.788bd6c4c2085e6720bd.webp",
+    "static/media/LogoHeader.png": "/portfolio/home/static/media/LogoHeader.303d0754e8b75f949ac5.png",
+    "static/media/aProposstatuesOr.webp": "/portfolio/home/static/media/aProposstatuesOr.8475a85f31ed6c6f820f.webp",
+    "static/media/aboutBannerPerso.webp": "/portfolio/home/static/media/aboutBannerPerso.b2058a6670afd4c5573a.webp",
+    "static/media/portraitRPerez.png": "/portfolio/home/static/media/portraitRPerez.85987606bdb608e5da0a.png",
+    "index.html": "/portfolio/home/index.html",
+    "main.4ed0f6b1.css.map": "/portfolio/home/static/css/main.4ed0f6b1.css.map",
+    "main.9ab750d9.js.map": "/portfolio/home/static/js/main.9ab750d9.js.map"
   },
   "entrypoints": [
     "static/css/main.4ed0f6b1.css",
-    "static/js/main.ab6cc094.js"
+    "static/js/main.9ab750d9.js"
   ]
 }
