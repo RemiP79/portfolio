@@ -4,7 +4,7 @@ import "../components/styles/404.css"
 import Img404 from "../assets/img/img404.png"
 
 function Page404() {
-    <Navigate to="/"/>
+    // <Navigate to="/"/>
     return (        
         <div className="divPage404">
            <img src={Img404} alt="404" className="Img404"/>
