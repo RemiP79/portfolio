@@ -2,13 +2,13 @@
 	{
 		"id": "projetDerej",
 		"title": "DEREJ : création et maintenance du site Derej.fr avec utilisation du CMS Wordpress.",
-		"cover": "./img/DerejVignette.webp",
+		"cover": "/portfolio/img/DerejVignette.webp",
 		"pictures": [
 			"/portfolio/img/DerejPageAccueil.webp",
-			"/img/DerejLeBodine.webp",
-			"/img/DerejlogosWordpress.webp",
-			"/img/DerejLogos.webp",
-			"/img/DerejSiteVenteEnLigne.webp"
+			"/portfolio/img/DerejLeBodine.webp",
+			"/portfolio/img/DerejlogosWordpress.webp",
+			"/portfolio/img/DerejLogos.webp",
+			"/portfolio/img/DerejSiteVenteEnLigne.webp"
 		],
 		"description": [			
 			"Mise en place d'un environnement avec Worpdpress",
@@ -20,7 +20,7 @@
 		"host": {
 			"link" : "https://derej.fr/",
 			"name": "Voir site derej.fr",
-			"picture": "/img/Derejlogo.png"
+			"picture": "/portfolio/img/Derejlogo.png"
 		},
 		"rating": "5",
 		"location": " Mon premier projet de développeur s'est fait pendant le confinement. Ma femme voulait créer un site marchand pour sa marque DEREJ couture. J'ai donc décidé d'utiliser les semaines de confinement pour m'auto-former et créer un site à l'image de la marque. Je n'avais aucune compétence en création de site. J'ai utilisé Wordpress et installé le site chez un hébergeur. Je gère totalement l'entretien du site, la création et l'insertion de tous les éléments le composant.",
@@ -42,12 +42,12 @@
 	{
 		"id": "projetBooki",
 		"title": "BOOKI : création d'une page d'accueil d'une agence de voyage avec HTML et CSS",
-		"cover": "/img/bookiLogo.webp",
+		"cover": "/portfolio/img/bookiLogo.webp",
 		"pictures": [
-			"/img/bookiHeader.webp",
-			"/img/bookiHebergements.webp",
-			"/img/bookiActivites.webp",
-			"/img/bookiCode.webp"			
+			"/portfolio/img/bookiHeader.webp",
+			"/portfolio/img/bookiHebergements.webp",
+			"/portfolio/img/bookiActivites.webp",
+			"/portfolio/img/bookiCode.webp"			
 		],
 		"description": [
 			"Installer un environnement de développement front-end",
@@ -58,7 +58,7 @@
 		"host": {
 			"link":"https://remip79.github.io/projet2/",
 			"name": "Lien vers Booki",
-			"picture": "/img/bookiLogoLink.png"
+			"picture": "/portfolio/img/bookiLogoLink.png"
 		},
 		"rating": "4",
 		"location": "La mission était la mise en place d'un environnement front-end en utilisant les langages HTML et CSS. L'objectif était la reproduction à l'identique, en version desktop, une maquette Figma. La demande la mise en place d'un responsive design pour tablette et mobile. Pour cela, il a fallut découper la maquette pour organiser l'agencement des éléments, coder les différentes parties du fichier HTML (header, body, footer...), intégrer un formulaire, une partie filtres, intégrer des images...",
@@ -82,12 +82,12 @@
 	{
 		"id": "projetSophieBluel",
 		"title": "Sophie Bluel, photographe : Créer une page web dynamique avec Javascript",
-		"cover": "/img/bluelLogo.webp",
+		"cover": "/portfolio/img/bluelLogo.webp",
 		"pictures": [
-			"/img/bluelAccueil.webp",
-			"/img/bluelModale.webp",
-			"/img/bluelmodale2.webp",
-			"/img/bluelCode.webp"
+			"/portfolio/img/bluelAccueil.webp",
+			"/portfolio/img/bluelModale.webp",
+			"/portfolio/img/bluelmodale2.webp",
+			"/portfolioimg/bluelCode.webp"
 		],
 		"description": [
 			"Récupérer les données utilisateurs dans le JavaScript via des formulaires",
@@ -115,12 +115,12 @@
 	{
 		"id": "projetQwanta",
 		"title": "QWANTA : Plannification du développement du site d'un client",
-		"cover": "/img/menuMakerLogo.webp",
+		"cover": "/portfolio/img/menuMakerLogo.webp",
 		"pictures": [
-			"/img/menuMakerKaban.webp",
-			"/img/menuMakerKaban2.webp",
-			"/img/menuMakerSpeTech.webp",
-			"/img/menuMakerVeilleTech.webp"
+			"/portfolio/img/menuMakerKaban.webp",
+			"/portfolio/img/menuMakerKaban2.webp",
+			"/portfolio/img/menuMakerSpeTech.webp",
+			"/portfolio/img/menuMakerVeilleTech.webp"
 		],
 		"description": [
 			"Suivre le déroulement du projet grâce à un outil de gestion de projet",
@@ -152,13 +152,13 @@
 	{
 		"id": "projetNinaCarducci",
 		"title": "Nina CARDUCCI : Debugger et optimiser un site",
-		"cover": "/img/ninaLogo.webp",
+		"cover": "/portfolio/img/ninaLogo.webp",
 		"pictures": [
-			"/img/ninaAccueilSite.webp",
-			"/img/ninaBilanOptimisation.webp",
-			"/img/ninaOptimisationsEffectuees.webp",
-			"/img/ninaCorrectionCode.webp",
-			"/img/ninaCodeMetaDescr.webp"],
+			"/portfolio/img/ninaAccueilSite.webp",
+			"/portfolio/img/ninaBilanOptimisation.webp",
+			"/portfolio/img/ninaOptimisationsEffectuees.webp",
+			"/portfolio/img/ninaCorrectionCode.webp",
+			"/portfolio/img/ninaCodeMetaDescr.webp"],
 		"description": [
 			"Débugger une application web à l'aide de chrome devtools",
 			"Optimiser les performances d’un site web",
@@ -171,7 +171,7 @@
 		"host": {
 			"link":"https://remip79.github.io/projet5/",
 			"name": "Lien vers Nina Carducci",
-			"picture": "/img/ninaLogoLink.png"
+			"picture": "/portfolio/img/ninaLogoLink.png"
 		},
 		"rating": "5",
 		"location": "Projet basé sur l'optimisation SEO d'un site. J'ai avant tout débuggé quelques fonctionnalités du site et ensuite, listé les différentes optimisations possibles. L'audit réalisé par lighthouse m'a été d'une grande aide car il m'a permis de lister et ordonner les différentes optimisations à réaliser. J'ai donc travillé sur l'optimisation d'images, de fichiers CSS et JS. J'ai ensuite optimisé le SEO avec Rich Snippet Google et les micro données de schéma.org. Enfin, j'ai optimisé l'accessibilité du site grâce au plug-in Wave.",
@@ -196,11 +196,11 @@
 	{
 		"id": "projetKasa",
 		"title": "KASA : Création d'une application web avec REACT",
-		"cover": "/img/kasaLogo.webp",
+		"cover": "/portfolio/img/kasaLogo.webp",
 		"pictures": [
-			"/img/kasaDescriptionPage.webp",
-			"/img/kasaAboutPage.webp",
-			"/img/kasaCode.webp"
+			"/portfolio/img/kasaDescriptionPage.webp",
+			"/portfolio/img/kasaAboutPage.webp",
+			"/portfolio/img/kasaCode.webp"
 		],
 		"description": [
 			"Configurer la navigation entre les pages de l'application avec React Router.",
@@ -211,7 +211,7 @@
 		"host": {
 			"link":"https://remip79.github.io/kasa-github-page/",
 			"name": "Lien vers Kasa",
-			"picture": "/img/kasaLogoLink.png"
+			"picture": "/portfolio/img/kasaLogoLink.png"
 		},
 		"rating": "5",
 		"location": "Dans le cadre d'une refonte totale du site, j'ai été missionné pour réaliser le front-end avec la technologie REACT. J'ai dû me former à ce langage. Puis j'ai mis en place le routeur, et ses dépendances, nécessaire au fonctionnement du site. Puis j'ai crée et intégré les différents composants du code. J'ai par exemple crée unn collapse et un caroussel. J'ai rendu fonctionnel, une redirection vers un page d'erreur",
@@ -228,12 +228,12 @@
 		"title": "Mon vieux grimmoire : Développement du back-end d'un site de notation de livres",
 		"cover": "/img/vieuxGrimmoireLogo.webp",
 		"pictures": [
-			"/img/vieuxGrimmoirePageAccueil.webp",
-			"/img/vieuxGrimmoireCreateBook.webp",
-			"/img/vieuxGrimmoiremodifyBook.webp",
-			"/img/vieuxGrimmoirecode1.webp",
-			"/img/vieuxGrimmoirecode2.webp",
-			"/img/vieuxGrimmoirecode3.webp"
+			"/portfolio/img/vieuxGrimmoirePageAccueil.webp",
+			"/portfolio/img/vieuxGrimmoireCreateBook.webp",
+			"/portfolio/img/vieuxGrimmoiremodifyBook.webp",
+			"/portfolio/img/vieuxGrimmoirecode1.webp",
+			"/portfolio/img/vieuxGrimmoirecode2.webp",
+			"/portfolio/img/vieuxGrimmoirecode3.webp"
 		],
 		"description":[
 			"Implémenter un modèle logique de données conformément à la réglementation",
