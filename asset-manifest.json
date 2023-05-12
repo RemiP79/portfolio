@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.30a1d4c9.css",
-    "main.js": "/portfolio/static/js/main.59fc3013.js",
+    "main.css": "/portfolio/static/css/main.798b4927.css",
+    "main.js": "/portfolio/static/js/main.fd8d8388.js",
     "static/media/aProposbmx.webp": "/portfolio/static/media/aProposbmx.8552878bf52c62ef9d77.webp",
     "static/media/aProposthailande2.webp": "/portfolio/static/media/aProposthailande2.c03d50b76cfe9d2955e6.webp",
     "static/media/aProposhamac.webp": "/portfolio/static/media/aProposhamac.cb4f898f93c6c7375854.webp",
@@ -15,16 +15,16 @@
     "static/media/aProposescalade.webp": "/portfolio/static/media/aProposescalade.45af22b265107b0fcedb.webp",
     "static/media/aPropostennis.webp": "/portfolio/static/media/aPropostennis.6b10a6a818bce8c1a211.webp",
     "static/media/aProposguitare.webp": "/portfolio/static/media/aProposguitare.788bd6c4c2085e6720bd.webp",
-    "static/media/LogoHeader.png": "/portfolio/static/media/LogoHeader.303d0754e8b75f949ac5.png",
     "static/media/aProposstatuesOr.webp": "/portfolio/static/media/aProposstatuesOr.8475a85f31ed6c6f820f.webp",
     "static/media/aboutBannerPerso.webp": "/portfolio/static/media/aboutBannerPerso.b2058a6670afd4c5573a.webp",
-    "static/media/portraitRPerez.png": "/portfolio/static/media/portraitRPerez.85987606bdb608e5da0a.png",
+    "static/media/portraitRPerez.webp": "/portfolio/static/media/portraitRPerez.cce26781ea6e21b177ff.webp",
+    "static/media/LogoHeader.webp": "/portfolio/static/media/LogoHeader.d1ea60db9d47d520ca13.webp",
     "index.html": "/portfolio/index.html",
-    "main.30a1d4c9.css.map": "/portfolio/static/css/main.30a1d4c9.css.map",
-    "main.59fc3013.js.map": "/portfolio/static/js/main.59fc3013.js.map"
+    "main.798b4927.css.map": "/portfolio/static/css/main.798b4927.css.map",
+    "main.fd8d8388.js.map": "/portfolio/static/js/main.fd8d8388.js.map"
   },
   "entrypoints": [
-    "static/css/main.30a1d4c9.css",
-    "static/js/main.59fc3013.js"
+    "static/css/main.798b4927.css",
+    "static/js/main.fd8d8388.js"
   ]
 }
