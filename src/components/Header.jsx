@@ -16,7 +16,7 @@ function Banner() {
                 <NavLink className={({isActive}) =>
                                 isActive ? "nav-active nav-link" 
                                 :
-                                "nav-link"} end="about" to="/about"> Mieux me connaitre ?
+                                "nav-link"} end="about" to="/about"> Mieux me connaître ?
                 </NavLink> 
             </nav>
     </header>

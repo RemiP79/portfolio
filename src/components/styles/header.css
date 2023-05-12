@@ -46,7 +46,7 @@
         margin : 20px 35px;
     }
     .navbar{
-        width : 60%;
+        width : 100%;
         display:flex;
     }
     
@@ -60,6 +60,7 @@
     cursor : "pointer";
     font-size :100%;
     font-family : "arial";
+    margin-left:0;
     }
 }
 

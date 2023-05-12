@@ -8,6 +8,14 @@
 }
 .imgVert{
 height:250px;
+border-radius: 10px;
+}
+
+.pTitres{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size : 3rem;
+    text-align: center;
+    margin-bottom : 10px;
 }
 
 .PAbout,.HAbout {
@@ -22,8 +30,40 @@ height:250px;
     font-size : 3rem;
 }
 .PAbout{
+    padding : 3px 10px;
     margin :20px 6.5%;
 font-size : 2rem;
+
+}
+
+.PAbout1{
+    background-color: rgba(249, 172, 6, 0.5);
+    border-radius : 20px;
+    padding : 10px 0;
+}
+
+.PAbout2{
+    background-color: rgba(249, 172, 6, 0.4);
+    border-radius : 20px;
+    padding : 10px 0;
+}
+
+.PAbout3{
+    background-color: rgba(249, 172, 6, 0.3);
+    border-radius : 20px;
+    padding : 10px 0;
+}
+
+.PAbout4{
+    background-color: rgba(249, 172, 6, 0.2);
+    border-radius : 20px;
+    padding : 10px 0;
+}
+
+.PAbout5{
+    background-color: rgba(249, 172, 6, 0.1);
+    border-radius : 20px;
+    padding : 10px 0;
 }
 
 
@@ -37,7 +77,21 @@ font-size : 2rem;
     }
     .imgVert{
         padding : 10px 0;
-        height:250px;
+        height:auto;
+        max-width : 100%;
+        border-radius:30px;
+
         }
+
+    .PAbout{
+        font-size : 1.5rem;
+    }
+
+    .pTitres{
+        font-size : 2rem;
+    }
     
+    .HAbout{
+        font-size : 1.5rem;
+    }
 }

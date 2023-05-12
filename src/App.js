@@ -4,7 +4,7 @@ import Footer from "./components/Footer.jsx";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Description from "./pages/Description";
-import Page404 from "./pages/Page404";
+
 
 function App() {
   return (

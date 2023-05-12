@@ -25,9 +25,11 @@ footer img{
         
         margin-bottom: 30px;
     }
-
-    #logofooter{
-        
+    footer img{
+        margin-top : 5px;
+        height : 27px;
+    }
+    #logofooter{        
         width : 20%;
     }
     
