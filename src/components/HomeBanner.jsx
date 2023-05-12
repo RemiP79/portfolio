@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from "../assets/img/portraitRPerez.png";
+import Image from "../assets/img/portraitRPerez.webp";
 import "./styles/homeBanner.css";
 import { Link } from 'react-router-dom';
 

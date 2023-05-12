@@ -1,73 +1,82 @@
 [
 {
     "id" : "1",
+    "width" : "35",
     "alt" : "Image CSS",
     "picture" :
-        "/portfolio/img/logos/logoCss.png"
+        "/portfolio/img/logos/logoCss.webp"
     
 },
 
 {
     "id" : "2",
+    "width" : "88",
     "alt" : "Image gitHub",
     "picture" :       
-        "/portfolio/img/logos/logoGh.png"
+        "/portfolio/img/logos/logoGh.webp"
     
 },
 
 {
     "id" : "3",
+    "width" : "50",
     "alt" : "Image Html",
     "picture" :    
-        "/portfolio/img/logos/logoHtml.png"
+        "/portfolio/img/logos/logoHtml.webp"
     
 },
 
 {
     "id" : "4",
+    "width" : "50",
     "alt" : "Image JS",
     "picture" :        
-        "/portfolio/img/logos/logoJavascript.png"
+        "/portfolio/img/logos/logoJavascript.webp"
     
 },
 
 {
     "id" : "5",
+    "width" : "184",
     "alt" : "Image mongo",
     "picture" :
-        "/portfolio/img/logos/logoMongo.png"
+        "/portfolio/img/logos/logoMongo.webp"
     
 },
 
 {
     "id" : "6",
+    "width" : "82",
     "alt" : "Image node",
     "picture" :
-        "/portfolio/img/logos/logonode.png"
+        "/portfolio/img/logos/logonode.webp"
     
 },
 
 {
     "id" : "7",
+    "width" : "79",
     "alt" : "Image OVH",
     "picture" :
-        "/portfolio/img/logos/logoOVH.png"
+        "/portfolio/img/logos/logoOVH.webp"
     
 },
 
 {
     "id" : "8",
+    "width" : "76",
     "alt" : "Image React",
     "picture" :
-        "/portfolio/img/logos/logoReact.png"
+        "/portfolio/img/logos/logoReact.webp"
     
 },
 
 {
     "id" : "9",
+    "width" : "220",
     "alt" : "Image WordPress",
     "picture" :
-        "/portfolio/img/logos/logoWp.png"
+        "/portfolio/img/logos/logoWp.webp"
     
 }
 ]

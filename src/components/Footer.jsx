@@ -9,7 +9,7 @@ function Footer() {
     return (
     <footer id="footer">
         {DataLogo.map((img,index)=> 
-                    <img key={index} src={img.picture} alt={img.alt} className="logoFooter"/>                   
+                    <img key={index} src={img.picture} alt={img.alt} height="50" width={img.width} className="logoFooter"/>                   
                 )}
 
             
