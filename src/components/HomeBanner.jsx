@@ -7,7 +7,7 @@ function HomeBanner() {
     return (
         <>
         <div className="banniereHome">
-            <img src={Image} alt="accueil" className="imghomebanner"/> 
+            <img src={Image} height="187" width="187" alt="accueil" className="imghomebanner"/> 
             <span className="infopersoH1">
                 <div className="titleHomeBanner">
                     <p className="myName">PEREZ Rémi</p>

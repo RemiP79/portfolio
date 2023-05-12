@@ -6,7 +6,7 @@ import { NavLink} from 'react-router-dom';
 
 function Banner() {
     return (<header id="header">
-        <img id="logoKasaRouge" src={Logo} alt="Logo RP" />
+        <img id="logoKasaRouge" src={Logo} width="96" height="93" alt="Logo RP" />
             <nav className="navbar"> {/* */} 
                 <NavLink className={({isActive}) => 
                                 isActive ? "nav-active nav-link" 
