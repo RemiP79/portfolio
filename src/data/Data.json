@@ -23,7 +23,7 @@
 			"picture": "/portfolio/img/DerejLogo.png"
 		},
 		"rating": "5",
-		"location": " Mon premier projet de développeur s'est fait pendant le confinement. Ma femme voulait créer un site marchand pour sa marque DEREJ couture. J'ai donc décidé d'utiliser les semaines de confinement pour m'auto-former et créer un site à l'image de la marque. Je n'avais aucune compétence en création de site. J'ai utilisé Wordpress et installé le site chez un hébergeur. Je gère totalement l'entretien du site, la création et l'insertion de tous les éléments le composant.",
+		"location": " Mon premier projet de développeur s'est fait pendant le confinement. Ma femme voulait créer un site marchand pour sa marque DEREJ couture. J'ai donc décidé d'utiliser les semaines de confinement pour m'auto-former et créer un site à l'image de la marque. Je n'avais aucune compétence en création de site. J'ai utilisé Wordpress et installé le site chez un hébergeur. Je gère totalement la maintenance du site, la création et l'insertion de tous les éléments le composant. Les difficultés que j'ai rencontré pour ce projet a été de partir d'une feuille blanche, tant au niveau de l'expertise que de la connaissance de cette tehnologie. J'ai aussi du apprendre à écouter ma \"cliente\" pour répondre à ses demandes",
 		"equipments": [
 			"Je suis créatrice couture, je suis exigente et souhaitant un site à mon image, coloré,rigoureux mais original.",
 			"M. Perez a su être à l'écoute de mes besoins.",
@@ -61,7 +61,7 @@
 			"picture": "/portfolio/img/bookiLogoLink.png"
 		},
 		"rating": "4",
-		"location": "La mission était la mise en place d'un environnement front-end en utilisant les langages HTML et CSS. L'objectif était la reproduction à l'identique, en version desktop, une maquette Figma. La demande la mise en place d'un responsive design pour tablette et mobile. Pour cela, il a fallut découper la maquette pour organiser l'agencement des éléments, coder les différentes parties du fichier HTML (header, body, footer...), intégrer un formulaire, une partie filtres, intégrer des images...",
+		"location": "La mission était la mise en place d'un environnement front-end en utilisant les langages HTML et CSS. L'objectif était la reproduction à l'identique, en version desktop, une maquette Figma. La demande la mise en place d'un responsive design pour tablette et mobile. Pour cela, il a fallut découper la maquette pour organiser l'agencement des éléments, coder les différentes parties du fichier HTML (header, body, footer...), intégrer un formulaire, une partie filtres, intégrer des images...La difficulté que j'ai rencontré dans ce projet a été la mise en place du responsive. J'ai rencontré des différences entre le code que je saisisais et le rendu effectif. Notamment sur comment cibler le bon élément à mettre en forme avec le CSS",
 		"equipments": [		
 			"Le projet réponds au cahier de charge",
 			"Projet bien structuré(création de dossier css/images)",

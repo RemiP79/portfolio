@@ -2,7 +2,7 @@ footer{
    width : 90%;
    margin : 20px auto;
     display : flex;
-    justify-content: space-between;
+    justify-content: space-around;
    flex-wrap:wrap;
    align-items: center;
    background-color: rgba(203,203,201,0.7);
@@ -27,11 +27,13 @@ footer img{
     }
     footer img{
         margin-top : 5px;
-        height : 27px;
+        /* height : 27px; */
+        padding-top:10px;
     }
-    #logofooter{        
+    /* #logofooter{        
         width : 20%;
-    }
+       
+    } */
     
     .pFooter{
         font-size : 2vw;
