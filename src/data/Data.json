@@ -86,7 +86,7 @@
 		"pictures": [
 			"/portfolio/img/bluelAccueil.webp",
 			"/portfolio/img/bluelModale.webp",
-			"/portfolio/img/bluelmodale2.webp",
+			"/portfolio/img/bluelModale2.webp",
 			"/portfolio/img/bluelCode.webp"
 		],
 		"description": [
@@ -230,10 +230,10 @@
 		"pictures": [
 			"/portfolio/img/vieuxGrimmoirePageAccueil.webp",
 			"/portfolio/img/vieuxGrimmoireCreateBook.webp",
-			"/portfolio/img/vieuxGrimmoiremodifyBook.webp",
-			"/portfolio/img/vieuxGrimmoirecode1.webp",
-			"/portfolio/img/vieuxGrimmoirecode2.webp",
-			"/portfolio/img/vieuxGrimmoirecode3.webp"
+			"/portfolio/img/vieuxGrimmoireModifyBook.webp",
+			"/portfolio/img/vieuxGrimmoireCode1.webp",
+			"/portfolio/img/vieuxGrimmoireCode2.webp",
+			"/portfolio/img/vieuxGrimmoireCode3.webp"
 		],
 		"description":[
 			"Implémenter un modèle logique de données conformément à la réglementation",
