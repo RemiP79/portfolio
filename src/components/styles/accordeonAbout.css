@@ -36,3 +36,9 @@
     padding : 20px 10px 10px;
     font-size : 85%;
 }
+
+@media all and (max-width: 600px){
+    .AccordeonTitle{       
+        font-size : 0.8em;
+    }
+}

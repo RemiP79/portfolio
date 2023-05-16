@@ -132,9 +132,9 @@
 			"Installer un environnement de développement front-end"
 		],
 		"host": {
-			"link":"",
-			"name": "",
-			"picture": ""
+			"link":"https://drive.google.com/drive/folders/1PXXxLMlkCdFNHsKRa5UBr9YdoY3sWYx5?usp=sharing",
+			"name": "Lien vers documents",
+			"picture": "/portfolio/img/GoogleDriveLogo.webp"
 		},
 		"rating": "3",
 		"location": "En tant que développeur front end, j'ai eu la mission de préparer et de plannifier le développement d'un site. Pour cela j'ai dû mettre en place une méthode de travail AGILE. Je me suis basé sur des spécifications fonctionnelles ainsi que sur un user story pour établir les spcification techniques front-end et back-end du site. Pour cela j'ai dû mettre en place un outil de veille mais aussi créer un kanban pour que répartir les différentes tâches entre dans le temps et entre profesionnels. Ce projet a été très bénéfique pour moi car il m'a permis de me documenter sur les outils, tâches et missions que tout développeur doit connaitre. ",
@@ -190,7 +190,8 @@
 			"Résultats enrichis et référencement local (SEO)",
 			"Plugin wave",
 			"Rich snippet",
-			"Schéma.org"			
+			"Schéma.org",
+			"Wave"			
 		]
 	},
 	{
@@ -262,7 +263,8 @@
 			"MongoDB",
 			"Multer/sharp/express-validator",
 			"Mongo sanitize",
-			"Mongo unique validator"			
+			"Mongo unique validator",
+			"OWASP"
 		]
 	}
 	
